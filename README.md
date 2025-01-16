@@ -98,6 +98,7 @@ Start the local server to view the application in your browser.
 **Conclusion:**
 
 This e-commerce PWA combines essential features like offline access, push notifications, and responsive design to create a robust shopping platform. Contributions, feedback, and issues are welcome via pull requests or GitHub issues. Thank you for exploring this project!
+
 **output of the task:**
 ![image](https://github.com/user-attachments/assets/04ff5a78-71d8-4a4d-9429-6cee813164f7)
 
