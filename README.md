@@ -1,5 +1,19 @@
 # progressive-web-application-PGA-
 
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Mamidi Pavani
+
+**INTERN ID:** CT08JEJ
+
+**DOMAIN:** Full Stack Web Development
+
+**BATCH DURATION:** January 5th,2025 to February 5th,2025
+
+**MENTOR NAME:** Neela Santhosh Kumar
+
+**DESCRIPTION:**
+
 **Overview**
 
 This repository contains a Progressive Web Application (PWA) designed for an e-commerce platform. The application leverages modern web technologies to provide a fast, reliable, and engaging shopping experience. Key features include offline functionality and support for push notifications, ensuring users can access the platform anytime, anywhere.
